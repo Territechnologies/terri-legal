@@ -19,6 +19,10 @@ Public, versioned policy documents for Terri Tracking, served by GitHub Pages at
 terms/v1.0/terms-and-conditions.pdf
 acceptable-usage/v1.0/acceptable-usage-policy.pdf
 privacy/v1.0/privacy-policy.pdf
+ridge/participant-declaration/v1.0/participant-declaration.pdf
+ridge/platform-terms-of-use/v1.0/platform-terms-of-use.pdf
+ridge/refund-and-cancellation-policy/v1.0/refund-and-cancellation-policy.pdf
+ridge/privacy-notice/v1.0/privacy-notice.pdf
 ```
 
 ## Publishing a new version
